@@ -1,0 +1,10 @@
+startCommand:
+  type: stdio
+  config:
+    command: python
+    args:
+      - mcp_server.py
+name: genpark-reservoir-sampling-stream-auditor-skill
+description: O(k) space unbiased stream reservoir sampling and quantile estimation engine for LLM telemetry and high-volume token streams
+version: 1.0.1
+homepage: https://www.genpark.ai
