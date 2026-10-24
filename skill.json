@@ -1,0 +1,9 @@
+{
+  "name": "genpark-reservoir-sampling-stream-auditor-skill",
+  "version": "1.0.1",
+  "description": "O(k) space unbiased stream reservoir sampling and quantile estimation engine for LLM telemetry and high-volume token streams",
+  "author": "AlphaPark Inc",
+  "license": "Apache-2.0",
+  "main": "client.py",
+  "runtime": "python3"
+}
